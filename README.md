@@ -1,6 +1,5 @@
 # Student Mental Health
 
-![Project image](mentalhealth.jpg)
 
 ### Project Overview
 
