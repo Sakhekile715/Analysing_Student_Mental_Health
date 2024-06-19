@@ -1,5 +1,7 @@
 # Student Mental Health
 
+![Project image](mentalhealth.jpg)
+
 ### Project Overview
 
 This project aims to analyze the mental health of international students at a Japanese university. Using PostgreSQL, we explore whether international students face higher risks of mental health difficulties compared to domestic students. Specifically, we examine the impact of social connectedness, acculturative stress, and the length of stay on depression levels among international students.
